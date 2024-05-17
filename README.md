@@ -246,5 +246,11 @@ endmodule
 ![8bit rca](https://github.com/U3gueh/VLSI-LAB-EXP-1/assets/115100663/e5c20d1e-c282-4094-9ea1-1b5217ca124c)
 
 
+
+
+
+
+
+
 # RESULT:
 Thus the  simulation and synthesis of Logic Gates,Adders and Subtractors using vivado has been sucessfully executed and verified .
