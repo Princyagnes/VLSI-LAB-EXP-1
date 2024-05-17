@@ -247,5 +247,4 @@ endmodule
 
 
 # RESULT:
-
-         Thus the  simulation and synthesis of Logic Gates,Adders and Subtractors using vivado has been sucessfully executed and verified .
+     Thus the  simulation and synthesis of Logic Gates,Adders and Subtractors using vivado has been sucessfully executed and verified .
